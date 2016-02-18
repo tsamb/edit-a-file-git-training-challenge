@@ -1,5 +1,9 @@
 # Editing a file with the student workflow
 
+Make some changes to the limerick text file in this repository in a local branch and push those changes back to this repository.
+
+#### Workflow:
+
 1. Copy the clone link from a challenge
 2. git clone \<paste the clone link here\>
 3. cd \<repository name\>
